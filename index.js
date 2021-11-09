@@ -23,7 +23,7 @@ class AsyncSock {
 
         if(callback) {
             try {
-                callback(promiseReturn)
+                await callback(promiseReturn)
             } catch (error) {
                 return Promise.reject()
             }

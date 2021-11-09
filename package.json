@@ -3,12 +3,13 @@
   "version": "0.0.1",
   "description": "Async socket-io emit",
   "main": "index.js",
+  "homepage": "https://github.com/bunyaminmrcn/async-socket.io-emit#readme",
   "scripts": {},
   "keywords": [
     "socket.io",
     "emit",
     "async"
   ],
-  "author": "Bunyamin Mercan",
+  "author": "Bunyamin mrcn <bunyaminmrcn@gmail.com>",
   "license": "ISC"
 }
