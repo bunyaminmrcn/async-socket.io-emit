@@ -1,0 +1,14 @@
+{
+  "name": "async-socket.io-emit",
+  "version": "0.0.1",
+  "description": "Async socket-io emit",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "socket.io",
+    "emit",
+    "async"
+  ],
+  "author": "Bunyamin Mercan",
+  "license": "ISC"
+}
